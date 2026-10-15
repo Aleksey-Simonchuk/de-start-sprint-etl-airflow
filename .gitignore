@@ -172,4 +172,3 @@ cython_debug/
 config/
 logs/
 plugins/
-dags/
